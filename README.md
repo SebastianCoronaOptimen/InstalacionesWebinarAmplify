@@ -1,4 +1,4 @@
-# Instalaciones del curso práctco de AWS Amplify con React para la UTNG
+# Instalaciones del curso práctico de AWS Amplify con React
 
 <div style="display: flex; justify-content: center;">
     <image src='./images/logo.png' alt='Logo' height=400 >
@@ -20,7 +20,7 @@ Para  llevar a cabo de manera correcta y que no pierdas tu valioso tiempo en int
     <image src='./images/Nodejs.png' alt='Nodejs' height=400 >
 </div>
 
-## Links a las paginas que se usarán durante el curso:
+## Links a las páginas que se usarán durante el curso:
 
 * [Amplify Sandbox](https://sandbox.amplifyapp.com/getting-started)
 * [Material UI](https://mui.com/material-ui/)
